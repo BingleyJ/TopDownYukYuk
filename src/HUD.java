@@ -6,11 +6,11 @@ import javax.swing.ImageIcon;
 
 public class HUD {
 
-	private String plrHead = "playerhead.png";
+	private String plrHead = "/assets/hud/playerhead.png";
 	private Image playerHeadImage;
-	private String healthBar = "healthbar.png";
+	private String healthBar = "/assets/hud/healthbar.png";
 	private Image healthBarImage;
-	private String healthBar1percent = "healthbar1percent.png";
+	private String healthBar1percent = "/assets/hud/healthbar1percent.png";
 	private Image healthBar1PercentImage;
 	
 	private int playerLives = 3;

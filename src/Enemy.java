@@ -9,38 +9,38 @@ import javax.swing.ImageIcon;
 
 public class Enemy {
 
-	private String zmbDown = "zombiedown.png";
+	private String zmbDown = "/assets/enemies/zombiedown.png";
 	private Image zombieDownImage;
-	private String zmbDown2 = "zombiedown2.png";
+	private String zmbDown2 = "/assets/enemies/zombiedown2.png";
 	private Image zombieDownImage2;
-	private String zmbUp = "zombieup.png";
+	private String zmbUp = "/assets/enemies/zombieup.png";
 	private Image zombieUpImage;
-	private String zmbUp2 = "zombieup2.png";
+	private String zmbUp2 = "/assets/enemies/zombieup2.png";
 	private Image zombieUpImage2;
-	private String zmbRight = "zombieright.png";
+	private String zmbRight = "/assets/enemies/zombieright.png";
 	private Image zombieRightImage;
-	private String zmbRight2 = "zombieright2.png";
+	private String zmbRight2 = "/assets/enemies/zombieright2.png";
 	private Image zombieRightImage2;
-	private String zmbLeft = "zombieleft.png";
+	private String zmbLeft = "/assets/enemies/zombieleft.png";
 	private Image zombieLeftImage;
-	private String zmbLeft2 = "zombieleft2.png";
+	private String zmbLeft2 = "/assets/enemies/zombieleft2.png";
 	private Image zombieLeftImage2;
 	
-	private String zmbDemonUp = "zombiedemonup.png";
+	private String zmbDemonUp = "/assets/enemies/zombiedemonup.png";
 	private Image zombieDemonUpImage;
-	private String zmbDemonUp2 = "zombiedemonup2.png";
+	private String zmbDemonUp2 = "/assets/enemies/zombiedemonup2.png";
 	private Image zombieDemonUpImage2;
-	private String zmbDemonDown = "zombiedemondown.png";
+	private String zmbDemonDown = "/assets/enemies/zombiedemondown.png";
 	private Image zombieDemonDownImage;
-	private String zmbDemonDown2 = "zombiedemondown2.png";
+	private String zmbDemonDown2 = "/assets/enemies/zombiedemondown2.png";
 	private Image zombieDemonDownImage2;
-	private String zmbDemonLeft = "zombiedemonLeft.png";
+	private String zmbDemonLeft = "/assets/enemies/zombiedemonLeft.png";
 	private Image zombieDemonLeftImage;
-	private String zmbDemonLeft2 = "zombiedemonLeft2.png";
+	private String zmbDemonLeft2 = "/assets/enemies/zombiedemonLeft2.png";
 	private Image zombieDemonLeftImage2;
-	private String zmbDemonRight = "zombiedemonRight.png";
+	private String zmbDemonRight = "/assets/enemies/zombiedemonRight.png";
 	private Image zombieDemonRightImage;
-	private String zmbDemonRight2 = "zombiedemonRight2.png";
+	private String zmbDemonRight2 = "/assets/enemies/zombiedemonRight2.png";
 	private Image zombieDemonRightImage2;
 	
 	private int currentframe;

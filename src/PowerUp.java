@@ -6,15 +6,15 @@ import javax.swing.ImageIcon;
 
 public class PowerUp {
 	
-	private String extraLife = "1up.png";
+	private String extraLife = "/assets/powerup/1up.png";
 	private Image extraLifeImage;
-	private String machineGun = "machinegun.png";
+	private String machineGun = "/assets/powerup/machinegun.png";
 	private Image machineGunImage;
-	private String shotGun = "shotgun.png";
+	private String shotGun = "/assets/powerup/shotgun.png";
 	private Image shotGunImage;
-	private String laserGun = "lasergun.png";
+	private String laserGun = "/assets/powerup/lazergun.png";
 	private Image laserGunImage;
-	private String aBomb = "abomb.png";
+	private String aBomb = "/assets/powerup/abomb.png";
 	private Image aBombImage;
 	
 	private int currentframe;

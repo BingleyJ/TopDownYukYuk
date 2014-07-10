@@ -7,23 +7,23 @@ import javax.swing.ImageIcon;
 
 public class Player {
 	
-	private String plr = "player.png";
-	private String plrup = "playerup.png";
-	private String plrup2 = "playerup2.png";
-	private String plrdown = "playerdown.png";
-	private String plrdown2 = "playerdown2.png";
-	private String plrleft = "playerleft.png";
-	private String plrleft2 = "playerleft2.png";
-	private String plrright = "playerright.png";
-	private String plrright2 = "playerright2.png";
-	private String plrupright = "playerupright.png";
-	private String plrupright2 = "playerupright2.png";
-	private String plrupleft = "playerupleft.png";
-	private String plrupleft2 = "playerupleft2.png";
-	private String plrdownleft = "playerdownleft.png";
-	private String plrdownleft2 = "playerdownleft2.png";
-	private String plrdownright = "playerdownright.png";
-	private String plrdownright2 = "playerdownright2.png";
+	private String plr = "/assets/player/player.png";
+	private String plrup = "/assets/player/playerup.png";
+	private String plrup2 = "/assets/player/playerup2.png";
+	private String plrdown = "/assets/player/playerdown.png";
+	private String plrdown2 = "/assets/player/playerdown2.png";
+	private String plrleft = "/assets/player/playerleft.png";
+	private String plrleft2 = "/assets/player/playerleft2.png";
+	private String plrright = "/assets/player/playerright.png";
+	private String plrright2 = "/assets/player/playerright2.png";
+	private String plrupright = "/assets/player/playerupright.png";
+	private String plrupright2 = "/assets/player/playerupright2.png";
+	private String plrupleft = "/assets/player/playerupleft.png";
+	private String plrupleft2 = "/assets/player/playerupleft2.png";
+	private String plrdownleft = "/assets/player/playerdownleft.png";
+	private String plrdownleft2 = "/assets/player/playerdownleft2.png";
+	private String plrdownright = "/assets/player/playerdownright.png";
+	private String plrdownright2 = "/assets/player/playerdownright2.png";
 
 	private Image playerUpImage;
 	private Image playerDownImage;

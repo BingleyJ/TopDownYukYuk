@@ -5,22 +5,22 @@ import javax.swing.ImageIcon;
 
 public class BloodSplatter {
 
-	private String zmbBlood = "bloodsplatter.png";
+	private String zmbBlood = "/assets/bloodsplatter/bloodsplatter.png";
 	private Image zombieBloodImage;
-	private String zmbBlood2 = "bloodsplatter2.png";
+	private String zmbBlood2 = "/assets/bloodsplatter/bloodsplatter2.png";
 	private Image zombieBloodImage2;
-	private String zmbBlood3 = "bloodsplatter3.png";
+	private String zmbBlood3 = "/assets/bloodsplatter/bloodsplatter3.png";
 	private Image zombieBloodImage3;
-	private String zmbBlood4 = "bloodsplatter4.png";
+	private String zmbBlood4 = "/assets/bloodsplatter/bloodsplatter4.png";
 	private Image zombieBloodImage4;
 	
-	private String zmbBloodb = "bloodsplatterb.png";
+	private String zmbBloodb = "/assets/bloodsplatter/bloodsplatterb.png";
 	private Image zombieBloodbImage;
-	private String zmbBloodb2 = "bloodsplatterb2.png";
+	private String zmbBloodb2 = "/assets/bloodsplatter/bloodsplatterb2.png";
 	private Image zombieBloodbImage2;
-	private String zmbBloodb3 = "bloodsplatterb3.png";
+	private String zmbBloodb3 = "/assets/bloodsplatter/bloodsplatterb3.png";
 	private Image zombieBloodbImage3;
-	private String zmbBloodb4 = "bloodsplatterb4.png";
+	private String zmbBloodb4 = "/assets/bloodsplatter/bloodsplatterb4.png";
 	private Image zombieBloodbImage4;
 	
 	private int x;
